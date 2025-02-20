@@ -44,7 +44,6 @@ python AdminTool.py
 
 ## Lisans
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
-Copyright (c) [2025] [muhammedfatihiğrek]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
