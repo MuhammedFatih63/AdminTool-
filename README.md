@@ -43,5 +43,4 @@ python AdminTool.py
 - Güvenlik taramalarını düzenli yapın
 
 ## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. 
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
